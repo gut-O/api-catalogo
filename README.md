@@ -1,19 +1,8 @@
-# API de catálogo
+# CatálogoFlow
 
-Projeto demonstrativo de uma API de catálogo de produtos. O objetivo é mostrar organização de endpoints, validação, busca e documentação.
+Uma demonstração navegável de catálogo para transformar uma vitrine digital em pedido bem informado.
 
-## Executar
+**O problema:** o cliente pergunta preço, variação e disponibilidade em mensagens separadas; a equipe precisa montar o pedido manualmente.
 
-```bash
-python app.py
-```
-
-Depois acesse `http://127.0.0.1:8090/produtos`.
-
-## Rotas demonstradas
-
-- `GET /produtos`
-- `GET /saude`
-
-Os dados são fictícios e ficam em memória para manter a demonstração simples.
+**A demonstração:** busca, produtos, carrinho e uma experiência pronta para integrar ao canal de atendimento. Dados fictícios.
 
